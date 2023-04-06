@@ -25,5 +25,4 @@ License:
 This project is licensed under the MIT License. Feel free to use and modify the code as you wish. See the LICENSE file for more information.
 
 Author:
-
 This project was created by Hamilton T. J.
